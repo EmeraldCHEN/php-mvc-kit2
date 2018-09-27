@@ -16,7 +16,7 @@
                 'staff' => $people
             ];
 
-            $this->view('staff/index', $data);
+            $this->view('staff/index2', $data);
         }
     }
 ?>
